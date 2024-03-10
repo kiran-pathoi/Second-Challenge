@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f3e5d8;
+}
+.box{
+    /* border: 1px solid red; */
+    width: 36%;
+    height: 1020px;
+    margin: auto;
+    background-color:#ffffff;
+    border-radius: 16px;
+    margin-top: 80px;
+}
+img{
+    width: 500px;
+    height: 260px;
+    border-radius: 8px;
+    /* border: 1px solid black; */
+    position: relative;
+    left: 25px;
+    top: 25px;
+}
+h2{
+    background-color: #ffffff;
+    padding-top: 40px;
+    padding-left: 25px;
+    font-family: roboto;
+}
+p{
+    background-color: #ffffff;  
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 14px;
+    font-family: poppins;
+}
+h4{
+    color: #873959;
+    background-color: #fff7fc;
+    padding-bottom: 10px;
+    font-family: poppins;
+}
+.box2{
+/* border: 1px solid violet; */
+width: 500px;
+height: 140px;
+position: relative;
+top: 20px;
+left: 25px;
+border-radius: 8px;
+background-color: #fff7fc;
+padding-top: 20px;
+padding-left: 25px;
+font-family: roboto;
+}
+
+ul{
+    background-color: #fff7fc;  
+}
+ul>li{
+    background-color: #fff7fc;
+    padding-bottom: 10px;
+    font-size: 14px;
+    padding-left: 16px;
+    margin-left: 16px;
+    font-family: poppins;
+}
+.ingredient{
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 20px;
+    background-color: #ffffff;
+    font-family: roboto;
+}
+h3{
+    background-color:#ffffff;
+    margin-top: 40px;
+    padding-left: 25px;
+    color: #694033;
+    
+}
+.second{
+    background-color: #ffffff; 
+    padding-left: 50px;
+    padding-top: 20px;
+    font-family: poppins;
+}
+.second>.secondlist{
+    background-color: #ffffff;
+    padding-bottom: 10px;
+    font-size: 14px;
+    padding-left: 16px;
+    margin-left: 16px;
+    font-family: poppins;
+}
